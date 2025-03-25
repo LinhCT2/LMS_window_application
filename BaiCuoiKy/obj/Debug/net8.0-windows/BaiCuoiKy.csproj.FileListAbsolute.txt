@@ -1,0 +1,95 @@
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.exe
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.deps.json
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.runtimeconfig.json
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.pdb
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.AssemblyReference.cache
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form1.resources
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.GenerateResource.cache
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.AssemblyInfoInputs.cache
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.AssemblyInfo.cs
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.CoreCompileInputs.cache
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\refint\BaiCuoiKy.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.pdb
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.genruntimeconfig.cache
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\ref\BaiCuoiKy.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form2.resources
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.Up2Date
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form3.resources
+D:\NAMBA\KY2\Lập Trình Windows\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form4.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.exe
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.deps.json
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.runtimeconfig.json
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.pdb
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.AssemblyReference.cache
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form1.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form2.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form3.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form4.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.MuonSach.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.TraSach.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.GenerateResource.cache
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.AssemblyInfoInputs.cache
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.AssemblyInfo.cs
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.CoreCompileInputs.cache
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.CopyComplete
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\refint\BaiCuoiKy.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.pdb
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.genruntimeconfig.cache
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\ref\BaiCuoiKy.dll
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.FPass.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Home.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.LogIn.resources
+D:\Database\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.BaoCao.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.exe
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.deps.json
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.runtimeconfig.json
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.dll
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\BaiCuoiKy.pdb
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.BaoCao.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form1.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form2.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form3.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Form4.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.FPass.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Home.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.LogIn.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.MuonSach.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.TraSach.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.AssemblyInfo.cs
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.csproj.CopyComplete
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.dll
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\refint\BaiCuoiKy.dll
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.pdb
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.genruntimeconfig.cache
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\ref\BaiCuoiKy.dll
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.formTK6Thang.resources
+C:\Users\DELL\Desktop\BaiCuoiKy\BaiCuoiKy\BaiCuoiKy\obj\Debug\net8.0-windows\BaiCuoiKy.Sach.resources
