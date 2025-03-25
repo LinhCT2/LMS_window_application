@@ -1,3 +1,1 @@
-# demo-ssh
-
-ver 1
+# This is a ... project
